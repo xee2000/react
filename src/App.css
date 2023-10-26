@@ -16,3 +16,9 @@ box-shadow: 9px 11px 29px 8px rgba(0,0,0,0.75);
   height:200px;
   border-radius: 100%;
 }
+.tag{
+  position: absolute;
+  top: 2%;
+  left: 31%;
+  
+}
